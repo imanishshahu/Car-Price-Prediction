@@ -17,6 +17,19 @@ The columns in the given dataset are as follows:
 
 # Graph Visualization
 
+## EDA(Exploratory Data Analysis) of Data
+
 This is the graph generated from the Jupyter Notebook:
 
 ![Graph](images/graph1.png)
+
+![Graph](images/Top_10_2015.png)
+
+![Graph](images/Top_10_2016.png)
+
+![Graph](images/Top_10_2017.png)
+
+![Graph](images/Top_10_2018.png)
+
+![Graph](images/Top_10_2019.png)
+
