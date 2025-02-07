@@ -1,4 +1,5 @@
-# Car-Price-Prediction Using Library and Simple Neural Network Model
+# Car-Price-Prediction 
+## Using Library and Simple Neural Network Model
 ## About Dataset
 This dataset contains information about used cars.
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
@@ -12,3 +13,10 @@ The columns in the given dataset are as follows:
   6. seller_type
   7. transmission
   8. Owner
+
+
+# Graph Visualization
+
+This is the graph generated from the Jupyter Notebook:
+
+![Graph](images/graph1.png)
