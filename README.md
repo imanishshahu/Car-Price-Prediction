@@ -19,7 +19,7 @@ The columns in the given dataset are as follows:
 
 ## EDA(Exploratory Data Analysis) of Data
 
-This is the graph generated from the Jupyter Notebook:
+These are the graph generated from the Jupyter Notebook:
 
 ![Graph](images/graph1.png)
 
